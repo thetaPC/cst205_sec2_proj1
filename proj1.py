@@ -1,5 +1,8 @@
 #proj1.py
-#name, abstract like software design
+#Maria Loza
+#Images with noise (unwanted areas) will be sorted to get the median of specific pixels
+#in order to output one image without noise.
+#Due date: 9 February 2017
 
 from PIL import Image
 
